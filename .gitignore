@@ -1,0 +1,34 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Environment variables / secrets
+*.env
+.env
+
+# macOS system files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Sensitive app data
+vault.json
+salt.bin
+token.pickle
+credentials.json
+
+# Logs
+*.log
+
+# Compiled files
+*.so
+*.dll
+*.exe
+*.out
+.idea
